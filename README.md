@@ -5,31 +5,18 @@ CryptoDonkeyMiners GPU Mining Switch will help you mine the most profitable cryp
 
 The following cryptocurrencies are supported:
 BEAM
-
 CONCEAL
-
 CONFLUX
-
 CORTEX
-
 ERGO
-
 ETHEREUMCLASSIC
-
 ETHEREUMPOW
-
 FIRO
-
 GEMLINK
-
 KASPA
-
 NEOXA
-
 RAVENCOIN
-
 RYO
-
 SERO
 
 You need to set the following global settings:
