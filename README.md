@@ -1,4 +1,4 @@
-# CryptoDonkeyMinersGPUMiningSwitch
+# CryptoDonkeyMiners GPU Mining Switch
 GPU Mining Switch, GPU Mining Profit Switch
 
 CryptoDonkeyMiners GPU Mining Switch will help you mine the most profitable cryptocurrency by calling your pre-defined batch files and switching over to the most profitable cryptocurrency.
