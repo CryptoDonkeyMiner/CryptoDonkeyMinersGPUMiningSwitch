@@ -3,6 +3,8 @@ GPU Mining Switch, GPU Mining Profit Switch
 
 See how it works here: https://youtu.be/-eIxYGKBltc
 
+Feature requests and bug reporting in Discord here: https://discord.gg/6VNqReGzDa
+
 CryptoDonkeyMiners GPU Mining Switch will help you mine the most profitable cryptocurrency by calling your pre-defined batch files and switching over to the most profitable cryptocurrency.
 
 The following cryptocurrencies are supported:
