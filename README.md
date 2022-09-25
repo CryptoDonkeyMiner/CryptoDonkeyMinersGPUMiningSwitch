@@ -8,6 +8,7 @@ Feature requests and bug reporting in Discord here: https://discord.gg/6VNqReGzD
 CryptoDonkeyMiners GPU Mining Switch will help you mine the most profitable cryptocurrency by calling your pre-defined batch files and switching over to the most profitable cryptocurrency.
 
 The following cryptocurrencies are supported:
+* AION
 * BEAM
 * CONCEAL
 * CONFLUX
@@ -22,6 +23,17 @@ The following cryptocurrencies are supported:
 * RAVENCOIN
 * RYO
 * SERO
+* ZANO
+* NICEHASH-ETHASH
+* NICEHASH-ETCHASH
+* NICEHASH-KAWPOW
+* NICEHASH-BEAMV3
+* NICEHASH-CUCKOOCYCLE
+* NICEHASH-CUCKATOO32
+* NICEHASH-ZHASH
+* NICEHASH-AUTOLYKOS
+* NICEHASH-OCTOPUS
+* NICEHASH-RANDOMX
 
 You need to set the following global settings:
 * kWh cost in USD - The cost will determine profits or loss
