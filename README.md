@@ -50,3 +50,6 @@ It will work with all miners that can be started from a batch (.bat) file, just 
 
 I stopped testing after that, as it should work with everything.
 
+If you are using a miner where you cannot set the GPU mining overclock settings in the specific batch file, I recommend that you use lolNvidiaOC. You can set your overclock settings in the batch file using that. Get it here:
+https://github.com/Lolliedieb/lolMiner-releases/wiki/Guide-Windows-(LHR,Watchdog,WebServer,OC)
+
