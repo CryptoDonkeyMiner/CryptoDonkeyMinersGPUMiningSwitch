@@ -37,3 +37,16 @@ My YouTube Channel: https://www.youtube.com/cryptodonkeyminer
 
 ![image](https://user-images.githubusercontent.com/89296512/192139111-78c13f36-3265-4321-89c4-6c4deafeda46.png)
 
+It will work with all miners that can be started from a batch (.bat) file, just to mention a few:
+* Lolminer
+* Trex miner
+* GMiner
+* NBMiner
+* MiniZ Miner
+* BzMiner
+* Team Black Miner
+* WildRig Multi Miner
+* XMRig
+
+I stopped testing after that, as it should work with everything.
+
