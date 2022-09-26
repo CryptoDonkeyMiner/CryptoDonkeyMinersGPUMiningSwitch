@@ -8,6 +8,7 @@ Feature requests and bug reporting in Discord here: https://discord.gg/6VNqReGzD
 CryptoDonkeyMiners GPU Mining Switch will help you mine the most profitable cryptocurrency by calling your pre-defined batch files and switching over to the most profitable cryptocurrency.
 
 The following cryptocurrencies are supported:
+* AETERNITY
 * AION
 * BEAM
 * CONCEAL
@@ -23,6 +24,7 @@ The following cryptocurrencies are supported:
 * RAVENCOIN
 * RYO
 * SERO
+* SWAP
 * ZANO
 * NICEHASH-ETHASH
 * NICEHASH-ETCHASH
@@ -44,6 +46,7 @@ You need to set the following coin settings for each coin you want to mine:
 * Watts - How many watts your mining consumes
 * Batch path and file - The file path, like c:\miner\lolminer\mine_ergo.bat
 * Enabled - If box is checked, will include in profitability check
+* Skip if negative profit - Checking this on a coin will skip mining it if there is a loss on it. It will stop (or never start) the miner if all coins have it checked and no coins are profitable. If left unchecked on one coin, it will fallback and mine that. If left unchecked on multiple, it will mine the most profitable, even at a loss.
 
 Please use the save button to save your settings inbetween coin setups.
 
